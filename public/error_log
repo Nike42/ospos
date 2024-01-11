@@ -1,0 +1,18 @@
+[26-Jun-2022 07:02:01 Africa/Algiers] Migrating database_optimizations
+[26-Jun-2022 07:02:01 Africa/Algiers] Migrating to optimizations (file: /home/islecqxj/isleshopnet.com/application/migrations/sqlscripts/3.4.0_database_optimizations.sql)
+[26-Jun-2022 07:02:01 Africa/Algiers] error: 1553
+[26-Jun-2022 07:02:01 Africa/Algiers] error: Cannot drop index 'person_id': needed in a foreign key constraint
+[26-Jun-2022 07:02:02 Africa/Algiers] error: 1553
+[26-Jun-2022 07:02:02 Africa/Algiers] error: Cannot drop index 'person_id': needed in a foreign key constraint
+[26-Jun-2022 07:02:03 Africa/Algiers] error: 1072
+[26-Jun-2022 07:02:03 Africa/Algiers] error: Key column 'PRIMARY' doesn't exist in table
+[26-Jun-2022 07:02:03 Africa/Algiers] error: 1072
+[26-Jun-2022 07:02:03 Africa/Algiers] error: Key column 'PRIMARY' doesn't exist in table
+[26-Jun-2022 07:02:04 Africa/Algiers] error: 1553
+[26-Jun-2022 07:02:04 Africa/Algiers] error: Cannot drop index 'person_id': needed in a foreign key constraint
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrated to optimizations
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrating database_optimizations completed
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrating remove_duplicate_links
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrating remove_duplicate_links completed
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrating expense categories module
+[26-Jun-2022 07:02:04 Africa/Algiers] Migrating expense categories module completed
